@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roirepus) 
 
+## 💫 Recent Activity
 [![roirepus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roirepus&theme=dracula)](https://github.com/roirepus/github-readme-activity-graph)
 
 # 💻 Tech Stack:
