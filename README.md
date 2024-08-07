@@ -1,14 +1,14 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Nightsout<br>👯 I’m looking to collaborate on TS pojects<br>🌱 I’m currently learning as much as I can<br>⚡ Fun fact
 
 
-## 🌐 Links:
+## 🌐 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roirepus) 
 
 ## 💫 Recent Activity
 [![roirepus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roirepus&theme=dracula)](https://github.com/roirepus/github-readme-activity-graph)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ## Languages
 
 <!--<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  |
