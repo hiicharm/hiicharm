@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on Nightsout<br>👯 I’m looking to collaborate on TS pojects<br>🌱 I’m currently learning as much as I can<br>⚡ Fun fact
+🔭 I’m currently working on Nightsout<br>👯 I’m looking to collaborate on TS pojects<br>🌱 I’m currently learning as much as I can<be> <!--⚡ Fun fact -->
 
 
 ## 🌐 Links
