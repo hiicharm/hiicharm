@@ -3,10 +3,10 @@
 
 
 ## 🌐 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roirepus) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiicharm) 
 
 ## 💫 Recent Activity
-[![roirepus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roirepus&theme=dracula)](https://github.com/roirepus/github-readme-activity-graph)
+[![hiicharm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hiicharm&theme=dracula)](https://github.com/hiicharm/github-readme-activity-graph)
 
 # 💻 Tech Stack
 ## Languages
@@ -34,12 +34,12 @@
 
 <!--
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roirepus&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=roirepus&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roirepus&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hiicharm&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hiicharm&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiicharm&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roirepus&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hiicharm&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
