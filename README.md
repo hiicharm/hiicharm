@@ -2,10 +2,6 @@
 🔭 I like to code and make stuff<br>
 <!--⚡ Fun fact -->
 
-
-## 🌐 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiicharm) 
-
 ## 💫 Recent Activity
 [![hiicharm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hiicharm&theme=dracula)](https://github.com/hiicharm/github-readme-activity-graph)
 
