@@ -1,2 +1,2 @@
 
-<img src="https://media1.tenor.com/m/d-Gp_mNtYkoAAAAC/cute-hide.gif" height="100" width="100"/>
+<img src="https://media1.tenor.com/m/P4-C8QZoSGIAAAAd/cat-cute-cat.gif" height="150" width="100"/>
